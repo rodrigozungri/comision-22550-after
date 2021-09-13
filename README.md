@@ -2,4 +2,4 @@
 - Más data...
 - En formato lista.
 
-*** Esto es 'bold'. ***
+**Esto es texto 'bold'.**
